@@ -1,0 +1,52 @@
+{
+    "version": "0.0.0",
+    "contents":[
+        {
+            "id": 0,
+            "words": [
+                {
+                    "lang": "ja",
+                    "word": "りんご",
+                    "reading": "???",
+                    "sex": "none",
+                    "article": "none"
+                },
+                {
+                    "lang": "en",
+                    "word": "apple",
+                    "reading": "???",
+                    "sex": "none",
+                    "article": "an"
+                },
+                {
+                    "lang": "it",
+                    "word": "mele",
+                    "reading": "???",
+                    "sex": "???",
+                    "article": "???"
+                },
+                {
+                    "lang": "fr",
+                    "word": "pomme",
+                    "reading": "???",
+                    "sex": "???",
+                    "article": "???"
+                },
+                {
+                    "lang": "de",
+                    "word": "apfelbaum",
+                    "reading": "???",
+                    "sex": "???",
+                    "article": "???"
+                },
+                {
+                    "lang": "ru",
+                    "word": "яблоки",
+                    "reading": "???",
+                    "sex": "???",
+                    "article": "???"
+                }
+            ]
+        }
+    ]
+}
